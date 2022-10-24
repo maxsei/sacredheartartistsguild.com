@@ -1,4 +1,4 @@
 { pkgs ? import <nixpkgs> {}}:
 with pkgs; mkShell{
-  packages = [hugo];
+  packages = [hugo docker-compose];
 }
