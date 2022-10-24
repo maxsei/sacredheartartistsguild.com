@@ -7,7 +7,7 @@ theme = "hugo-scroll"
 title = "Sacred Heart Artist Guild ❤️‍🔥"
 
 [params]
-    copyright = "© Jule Schule"
+    copyright = "© Jule Schulte"
     description = "Art Instructore"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
